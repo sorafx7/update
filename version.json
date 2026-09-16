@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "download": "https://github.com/sorafx7/update/releases/download/v1.2.0/AniTracker.exe",
-  "notes": "Radial main menu, season slider with per-season episodes from aniworld, casino (Blackjack/Roulette/Mines/Dragon Tower) with points, XP reset, full English UI"
+  "version": "1.2.1",
+  "download": "https://github.com/sorafx7/update/releases/download/v1.2.1/AniTracker.exe",
+  "notes": "Updater: download to TEMP, cmd-based swap with wait loop, manual download fallback"
 }
