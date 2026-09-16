@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "download": "https://github.com/sorafx7/update/releases/download/v1.2.1/AniTracker.exe",
-  "notes": "Updater: download to TEMP, cmd-based swap with wait loop, manual download fallback"
+  "version": "1.2.2",
+  "download": "https://github.com/sorafx7/update/releases/download/v1.2.2/AniTracker.exe",
+  "notes": "Manual episode marking is back (click/right-click) - no XP, only real watch time rewards"
 }
