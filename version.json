@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "download": "https://github.com/sorafx7/update/releases/download/v1.3.0/AniTracker.exe",
-  "notes": "Casino rename, animated night-sky menu background with glass UI, Profile and Settings as own sections"
+  "version": "1.4.0",
+  "download": "https://github.com/sorafx7/update/releases/download/v1.4.0/AniTracker.exe",
+  "notes": "Accounts + server-side casino (Supabase): points, XP and every round are computed on the server; leaderboard; sign in from the menu"
 }
