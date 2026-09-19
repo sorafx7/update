@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "download": "https://github.com/sorafx7/update/releases/download/v1.5.0/AniTracker.exe",
-  "notes": "Watch Together rebuilt: Supabase Realtime instead of P2P (works behind any router/DS-Lite), room codes, auto-join to the same episode, drift correction, waits for buffering viewers, host handover, reconnect. Hoster players start automatically in a party."
+  "version": "1.5.1",
+  "download": "https://github.com/sorafx7/update/releases/download/v1.5.1/AniTracker.exe",
+  "notes": "Watch Together polish: Escape closes the party dialog instead of the player, Party pills reset after leaving a room."
 }
